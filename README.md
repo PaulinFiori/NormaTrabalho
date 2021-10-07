@@ -11,6 +11,6 @@ O exemplo acima pega o registrador R1 e coloco 6 nele, depois pega R2 e coloca 7
 
 Obs: Se quiser fazer a operaçao em tal registrador vc tera que adicionar ele primeiro. Por exemplo se quiser incrementar R2 + R1, vc terá que add R2 primeiro.
 
-Para colocar os valores digite eles em: 
+Para colocar os valores digite eles em: Norma.txt
 
-Para executar abra:
+Para executar abra: norma.cpp
